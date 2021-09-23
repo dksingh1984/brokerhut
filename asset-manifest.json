@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/brokerhut/static/css/main.1d297457.chunk.css",
-    "main.js": "/brokerhut/static/js/main.02cb38e3.chunk.js",
-    "main.js.map": "/brokerhut/static/js/main.02cb38e3.chunk.js.map",
+    "main.js": "/brokerhut/static/js/main.b78646ee.chunk.js",
+    "main.js.map": "/brokerhut/static/js/main.b78646ee.chunk.js.map",
     "runtime-main.js": "/brokerhut/static/js/runtime-main.6dc8d09d.js",
     "runtime-main.js.map": "/brokerhut/static/js/runtime-main.6dc8d09d.js.map",
     "static/css/2.86e65bd8.chunk.css": "/brokerhut/static/css/2.86e65bd8.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.86e65bd8.chunk.css",
     "static/js/2.6b65e2e8.chunk.js",
     "static/css/main.1d297457.chunk.css",
-    "static/js/main.02cb38e3.chunk.js"
+    "static/js/main.b78646ee.chunk.js"
   ]
 }
