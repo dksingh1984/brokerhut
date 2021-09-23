@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/brokerhut/static/css/main.1d297457.chunk.css",
+    "main.js": "/brokerhut/static/js/main.d445b907.chunk.js",
+    "main.js.map": "/brokerhut/static/js/main.d445b907.chunk.js.map",
+    "runtime-main.js": "/brokerhut/static/js/runtime-main.6dc8d09d.js",
+    "runtime-main.js.map": "/brokerhut/static/js/runtime-main.6dc8d09d.js.map",
+    "static/css/2.86e65bd8.chunk.css": "/brokerhut/static/css/2.86e65bd8.chunk.css",
+    "static/js/2.6b65e2e8.chunk.js": "/brokerhut/static/js/2.6b65e2e8.chunk.js",
+    "static/js/2.6b65e2e8.chunk.js.map": "/brokerhut/static/js/2.6b65e2e8.chunk.js.map",
+    "index.html": "/brokerhut/index.html",
+    "static/css/2.86e65bd8.chunk.css.map": "/brokerhut/static/css/2.86e65bd8.chunk.css.map",
+    "static/css/main.1d297457.chunk.css.map": "/brokerhut/static/css/main.1d297457.chunk.css.map",
+    "static/js/2.6b65e2e8.chunk.js.LICENSE.txt": "/brokerhut/static/js/2.6b65e2e8.chunk.js.LICENSE.txt",
+    "static/media/UploadIcon.svg": "/brokerhut/static/media/UploadIcon.469126df.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6dc8d09d.js",
+    "static/css/2.86e65bd8.chunk.css",
+    "static/js/2.6b65e2e8.chunk.js",
+    "static/css/main.1d297457.chunk.css",
+    "static/js/main.d445b907.chunk.js"
+  ]
+}
